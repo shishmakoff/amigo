@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"mas",
+				"masIndex"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"gete",
+				"getElementById"
+			],
+			[
+				"getne",
+				"getNewId"
+			],
+			[
+				"ma",
+				"masTr"
+			],
+			[
+				"getEleme",
+				"getElementsByTagName"
+			],
+			[
+				"getE",
+				"getElementById"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"add",
+				"addTableRow"
+			],
+			[
+				"sa",
+				"saveUserDataButton"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"re",
+				"removeItem"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"on",
+				"onkeypress"
+			],
+			[
+				"v",
+				"validators"
+			],
+			[
+				"num",
+				"numberField"
+			],
+			[
+				"crea",
+				"createLink"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fotn",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"a",
+				"age"
+			],
+			[
+				"ad",
+				"addressInfo"
+			],
+			[
+				"col",
+				"colsolgl"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"pr",
+				"println"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/admin/angular-seed/app/index.html",
+		"/D/js_adv/web_http/public/scripts/userData.js",
+		"/F/учеба/curse_js/shishmakoff/dbProvider.js",
+		"/F/учеба/curse_js/shishmakoff/public/index.html",
+		"/F/учеба/curse_js/shishmakoff/public/scripts/userData.js",
+		"/F/учеба/curse_js/shishmakoff/public/scripts/dataService.js",
+		"/F/учеба/curse_js/shishmakoff/server.js",
+		"/D/js_adv/web_http/public/scripts/dataService.js",
+		"/D/js_adv/web_http/public/scripts/script.js",
+		"/D/js_adv/web_http/public/scripts/reqTest.js",
+		"/D/js_adv/web_http/dbProvider.js",
+		"/F/учеба/curse_js/shishmakoff/scripts/localStorage.js",
+		"/F/учеба/curse_js/shishmakoff/scripts/userData.js",
+		"/D/js_adv/web_basic/projects/users/scripts/userData.js",
+		"/D/js_adv/curse_js/shishmakoff/scripts/localStorage.js",
+		"/D/js_adv/curse_js/shishmakoff/scripts/userData.js",
+		"/D/js_adv/curse_js/shishmakoff/styles/style.css",
+		"/D/js_adv/web_basic/projects/users/scripts/localStorage.js",
+		"/D/js_adv/web_basic/projects/users/scripts/validators.js",
+		"/D/js_adv/users/scripts/userData.js",
+		"/D/js_adv/users/index.html",
+		"/D/js_adv/users/styles/style.css",
+		"/D/js_adv/web_basic/scripts/script.js",
+		"/D/js_adv/web_basic/index2.html",
+		"/D/js_adv/web_basic/styles/style.css",
+		"/D/js_adv/web_basic/scripts/userData.js",
+		"/D/js_adv/web_basic/scripts/localStorage.js",
+		"/D/js_adv/web_basic/scripts/validators.js",
+		"/D/js_adv/web_basic/index.html",
+		"/D/JS_Basic/game/js/gameNew.js",
+		"/D/JS_Basic/game/js/loader.js",
+		"/D/JS_Basic/game/js/game.js",
+		"/D/JS_Basic/work1",
+		"/D/JS_Basic/Neocom21_hw4_Shishmakov_part3.js",
+		"/D/JS_Basic/Neocom21_kw_Shishmakov_ver2.0.js",
+		"/D/JS_Basic/Neocom21_kw_Shishmakov.js",
+		"/D/JS_Basic/Neocom21_hw4_Shishmakov.js",
+		"/D/JS_Basic/Neocom21_hw4_Shishmakov+part2.js",
+		"/D/JS_Basic/NeoCom21_hw3_Shishmakov.js",
+		"/D/JS_Basic/test.js",
+		"/D/JS_Basic/fff.html",
+		"/D/JS_Basic/NeoCom21_hw2_Shishmakov.js",
+		"//Isi/All/___Учеба/js/NeoCom21_hw2_Vinogradov.js",
+		"/D/JS_Basic/NeoCom_hw1_Shishmakov.js",
+		"/C/javascript/js/script1.js",
+		"/C/javascript/index.html",
+		"/C/hell.html",
+		"/C/район_крк/index.php",
+		"/D/portable_necessary/Programms/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+		"/D/portable_necessary/Programms/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/portable_necessary/Programms/Sublime Text/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/portable_necessary/Programms/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/jV/home_1.java",
+		"/D/Downloads/base/InternalFrameDemo.java",
+		"/D/work/Здрав_сборы/2015/Здрав19/3/configuration1.php",
+		"/D/work/Здрав_сборы/2015/Здрав19/3/configuration.php",
+		"/C/Users/Администратор/AppData/Local/Temp/Rar$DI28.448/Start.java",
+		"/C/jV/home.java",
+		"/G/Last/Budget/models/BGT/bgt_rospexp.meta",
+		"/C/3333/remove.pl",
+		"/C/3333/remove.sh",
+		"/C/3333/sort.sh",
+		"/C/3333/add.pl",
+		"/D/ошибки сайта/default.php",
+		"/C/config.php",
+		"/C/7777/livezilla/_config/config.inc.php",
+		"/C/7777/livezilla/_groups/groups.inc.php",
+		"/C/7777/livezilla/_internal/internal.inc.php",
+		"/C/7777/livezilla/_definitions/definitions.inc.php",
+		"/C/333/remove.sh",
+		"/C/333/remove.pl",
+		"/C/333/add.pl",
+		"/C/333/sort.sh",
+		"/C/444/configuration.php",
+		"/C/444/index.php",
+		"/C/matey.dp.ua/ai-bolit/ai-bolit.php",
+		"/C/Users/Администратор/AppData/Local/Temp/Rar$DI72.370/aknown_producer.php",
+		"/Z/home/matey.dp.ua/installation/index.php",
+		"/C/matey.dp.ua/COPYRIGHT.php",
+		"/C/matey.dp.ua/administrator/index.php",
+		"/C/Users/Администратор/AppData/Local/Temp/_tc/configuration.php",
+		"/C/matey.dp.ua/configuration.php",
+		"/C/et/user_inf.php",
+		"/C/Users/Администратор/AppData/Local/Temp/_tc/index.php",
+		"/C/matey.dp.ua/index2.php",
+		"/C/666/skript/add.pl",
+		"/C/666/skript/sort.sh",
+		"/C/666/skript/1/remove.sh",
+		"/C/666/skript/1/remove.pl",
+		"/C/666/skript/1/sort.sh",
+		"/C/666/skript/1/add.pl",
+		"/C/et/ajax.php",
+		"/C/et/.htaccess",
+		"/C/et/menu_glav.php",
+		"/C/et/admin_user.php",
+		"/C/et/menu_user.php",
+		"/C/et/user_admin.php",
+		"/C/et/registration.php",
+		"/C/et/tender_edit.php",
+		"/C/et/classes.php",
+		"/C/et/spis_tenders.php",
+		"/C/et/config.php",
+		"/C/et/5/index.php",
+		"/C/et/5/ajax.search.php",
+		"/C/Users/Администратор/AppData/Local/Temp/Rar$DI00.732/country.php",
+		"/C/Users/Администратор/AppData/Local/Temp/Rar$DI00.435/country.php",
+		"/C/et/4/config.php",
+		"/C/et/zatv.php",
+		"/C/et/2/tender_edit.php",
+		"/C/et/DATA/bootstrap-datepicker.js",
+		"/C/et/2/css/config.php",
+		"/C/et/pickadate.ru_RU.js",
+		"/C/et/date.htm",
+		"/G/et/registration.php",
+		"/C/et/login1.php",
+		"/C/et/footer.php",
+		"/C/et/head1.php",
+		"/C/et/css/bootstrap.css",
+		"/C/et/login.php",
+		"/C/et/head.php",
+		"/C/Users/Администратор/AppData/Local/Temp/_tc/registration.php",
+		"/C/et/menu.php",
+		"/C/et/index.php",
+		"/C/et/head1_old.php",
+		"/C/et/spravochnik.php",
+		"/C/et/index1.php",
+		"/C/et/config1.php",
+		"/C/et/telo.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"obj",
+			"'",
+			"DATE_FORMAT",
+			"dat",
+			"январь",
+			"pickadate",
+			"input",
+			"reset",
+			"navbar-inner"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "requirements.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
